@@ -1,7 +1,7 @@
 <!-- Баннер: замени на свою картинку. Проще всего залить png/jpg/gif прямо в репозиторий
      (например assets/banner.png) и указать путь ниже — GitHub отрисует его в README. -->
 <p align="center">
-  <img src="14768a03493b1d754562b2f1d14d935a.jpg" alt="banner" width="100%" style="border-radius: 16px;" />
+  <img src="banner_rounded.png" alt="banner" width="100%" style="border-radius: 16px;" />
 </p> 
 
 <h1 align="center">kiratonine</h1>
