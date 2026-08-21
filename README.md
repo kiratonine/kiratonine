@@ -22,7 +22,7 @@ software engineer & enthusiast. Co-founder at S1lk x402 Bridge.
 </p>
 
 - **languages:** javascript · typescript · sql
-- **frontend:** react · nextjs · redux · tanstackquery · tailwindcss
+- **frontend:** react · nextjs · redux · tanstackquery · tailwindcss · react-hook-form · zod
 - **backend:** node.js · express · rest apis
 - **databases:** sqlite · postgresql
 
