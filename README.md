@@ -18,7 +18,7 @@ software engineer & enthusiast. Co-founder at S1lk x402 Bridge.
 ### 🛠 Core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,docker,linux,git,sqlite,postgres" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,docker,git,sqlite,postgres" />
 </p>
 
 - **languages:** javascript · typescript · sql
