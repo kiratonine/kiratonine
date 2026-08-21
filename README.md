@@ -1,8 +1,8 @@
 <!-- Баннер: замени на свою картинку. Проще всего залить png/jpg/gif прямо в репозиторий
      (например assets/banner.png) и указать путь ниже — GitHub отрисует его в README. -->
-<!-- <p align="center">
-  <img src="assets/banner.png" alt="banner" width="100%" />
-</p> -->
+<p align="center">
+  <img src="b69cc82a8b2e0230d46a3bd31afa9927.jpg" alt="banner" width="100%" />
+</p> 
 
 <h1 align="center">kiratonine</h1>
 <p align="center"><i>software engineer · hackathon addict · musician</i></p>
