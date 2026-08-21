@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">kiratonine</h1>
-<p align="center"><i>software engineer · enthusiast · musician</i></p>
+<p align="center"><i>software engineer · hackathon addict · musician</i></p>
 
 ### about
 software engineer & enthusiast. Co-founder at S1lk x402 Bridge.
