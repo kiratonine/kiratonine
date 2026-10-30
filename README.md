@@ -8,8 +8,8 @@
 <p align="center"><i>software engineer · hackathon addict · musician</i></p>
 
 ### about
-software engineer & enthusiast. Co-founder at S1lk x402 Bridge.
- **https://slkp.vercel.app/**.
+software engineer & enthusiast. Co-founder at Solarch.
+ **https://sol-arch.vercel.app/**.
 
 📍 Almaty &nbsp;•&nbsp; ✉️ mrakirascream@gmail.com &nbsp;•&nbsp;
 
